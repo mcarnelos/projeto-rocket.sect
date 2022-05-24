@@ -69,6 +69,12 @@ main {
   height: 283px;
 }
 
+hr {
+  width: 568px;
+  border: 1px solid #00BFA6;
+  margin-bottom: 27px;
+} 
+
 footer {
   text-align: center;
   font-size: 14px;
