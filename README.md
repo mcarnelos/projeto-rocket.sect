@@ -3,8 +3,8 @@
 
 # Sobre o projeto
 
-O site móveis customizados, foi desenvolvido durante o stage 2 do programa Explorer da Rocketseat, trata-se de uma landing page de uma loja de móveis, 
-para treinar os conceitos de HTML e CSS.
+O site Rocket.sect trata-se de um projeto desenvolvido durante o stage 2 do programa Explorer da rocketseat, onde foi passado um desafio de criar o layout baseando-se 
+em um projeto criado no figma, para treinar os conceitos de HTML e CSS aprendidos até o momento.
 
 ## Layout web
 O site pode ser visualizado no seguinte endereço: 
